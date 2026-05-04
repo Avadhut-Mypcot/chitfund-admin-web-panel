@@ -1,0 +1,20 @@
+.poppinsMedium {
+    font-family: "poppins-medium", sans-serif;
+}
+
+.poppinsBold {
+    font-family: "poppins-bold", sans-serif;
+    font-size: 18px;
+}
+
+.poppinsMedium16 {
+    font-family: "poppins-medium", sans-serif;
+    font-size: 16px;
+    color: #3498db;
+}
+
+.poppinsBold18 {
+    font-family: "poppins-bold", sans-serif;
+    font-size: 18px;
+    color: #2ecc71;
+}
